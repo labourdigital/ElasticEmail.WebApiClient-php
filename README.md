@@ -5,7 +5,7 @@
 
 # Instalation #
 ```
-composer require elastic-email/web-api-client
+composer require labourdigital/elastic-email-web-api-client
 ```
 # API #
 API documentation you can find on [Elastic Email website](https://api.elasticemail.com/public/help).
