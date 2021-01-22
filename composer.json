@@ -1,9 +1,9 @@
 {
-    "name": "elastic-email/web-api-client",
+    "name": "labourdigital/elastic-email-web-api-client",
     "type": "library",
     "description": "Easily send emails with Elastic Email using Web API PHP Client https://elasticemail.com/",
     "keywords": ["elastic","email", "elasticemail", "transactional", "web", "api"],
-    "homepage": "https://github.com/ElasticEmail/ElasticEmail.WebApiClient-php",
+    "homepage": "https://github.com/labourdigital/ElasticEmail.WebApiClient-php",
     "license": "MIT",
     "authors": [
         {
@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "guzzlehttp/guzzle": "^6.3"
+        "guzzlehttp/guzzle": "^7.0.1"
     },
     "autoload": {
         "psr-0": { "": "src/" }
